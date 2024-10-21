@@ -1,4 +1,4 @@
-module github.com/Dryluigi/gogroup
+module github.com/marioo-pm/go-group
 
 go 1.22.6
 
